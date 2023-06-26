@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalboudad&label=Profile%20views&color=0e75b6&style=flat" alt="bilalboudad" /> </p>
 
-- 🌱 I’m currently learning **Many new things in École Marocaine des Sciences de l'Ingénieur**
+- 🌱 I’m currently learning **Many new things in Moroccan School of Engineering Sciences EMSI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bilalboudad/bilalboudad](https://github.com/bilalboudad/bilalboudad)
 
